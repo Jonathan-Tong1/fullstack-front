@@ -1,9 +1,9 @@
-## Spring Boot Full Stack Project: Front-End
+# Spring Boot Full Stack Project: Front-End
 
-# Overview
+## Overview
 This repository contains the front-end section of a full-stack web application built using Spring Boot, React, SQL, and Bootstrap. The project leverages popular libraries such as Axios for HTTP requests, React Router for navigation, and Bootstrap for responsive and visually appealing user interfaces.
 
-# Features
+## Features
 React: The front-end is developed using React, a powerful JavaScript library for building user interfaces. Components are modular and follow best practices for maintainability.
 
 Axios: For seamless communication with the Spring Boot backend, Axios is used to handle HTTP requests. This ensures efficient data exchange between the front and back ends.
