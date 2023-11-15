@@ -1,10 +1,18 @@
-import React from "react";
+import React, { useState } from "react";
+import axios from "axios";
 
 export default function Home() {
+
+  const [users,setUsers]=useState([])
+
+  useEffect(()=>{
+    console.log("Code With Jonathan.")
+  })
+
   return (
     <div className="container">
       <div className="py-4">
-        <table className="table">
+        <table className="table border shadow">
           <thead>
             <tr>
               <th scope="col">#</th>
